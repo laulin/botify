@@ -1,0 +1,4 @@
+botify/__pycache__/**
+build/**
+dist/**
+botify.egg-info/**
