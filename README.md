@@ -1,6 +1,15 @@
 Botify is a library to create a botnet infrastructure. It is 
 scalable and easy to use. Now let's look how !
 
+# Install
+
+~~~~
+git clone https://github.com/laulin/botify
+cd botify/
+make build_package
+sudo pip3 install dist/botify-1.0.tar.gz
+~~~~
+
 # Example
 
 submitter.py :
